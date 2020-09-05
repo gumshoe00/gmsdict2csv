@@ -12,7 +12,7 @@ classifiers = [
 setup(
   name='gmsdict2csv',
   version='0.0.1',
-  description='Convert a data list to a csv file.',
+  description='PyPi package coverts a flat list to a csv file and saves it in at the given path.',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',
   author='Gumshoe Media Inc. Team',
