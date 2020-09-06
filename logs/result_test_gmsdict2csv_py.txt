@@ -1,9 +1,0 @@
-============================= test session starts ==============================
-platform darwin -- Python 3.7.3, pytest-6.0.1, py-1.9.0, pluggy-0.13.1 -- /Users/smikhail/.pyenv/versions/3.7.3/bin/python3.7
-cachedir: .pytest_cache
-rootdir: /Users/smikhail/projects/gmsreportgit/gmsdict2csv
-collecting ... collected 1 item
-
-test_gmsdict2csv.py::TestListCsv::test_csv PASSED                        [100%]
-
-============================== 1 passed in 0.01s ===============================
