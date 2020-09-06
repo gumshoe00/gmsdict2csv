@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 classifiers = [
   'Development Status :: 5 - Production/Stable',
   'Intended Audience :: Education',
-  'Operating System :: Operating System :: OS Independent',
+  'Operating System :: MacOS :: MacOS 10',
   'License :: OSI Approved :: MIT License',
   'Programming Language :: Python :: 3'
 ]
